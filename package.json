@@ -1,0 +1,21 @@
+{
+    "name":"divbot",
+    "version": "0.0.1",
+    "description": "a CLI app functioning as a digital divination system",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author":{
+        "name": "Lynn Theory",
+        "email": "lynn@lynntheory.com"
+    },
+    "bin": {
+        "divbot": "bin/divbot.js"
+    },
+    "scripts": {},
+    "dependencies": {
+        "minimist": "^1.2.7"
+    }
+}
